@@ -1,2 +1,2 @@
 # Heroku-Demo
-#chek this diployment at:- https://predict-your-prediction-salary.herokuapp.com/
+#chek this diployment at:- https://santosh-salary-prediction.herokuapp.com/
